@@ -29,7 +29,7 @@
 
 <h3>🌐 Connect with me</h3>
 <p align="center">
-  <a href="linkedin.com/in/rafael-de-souza-felisberto-65146b297/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-de-souza-felisberto-65146b297" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:rafaelfelisberto05@gmail.com">
